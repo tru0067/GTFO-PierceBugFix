@@ -25,4 +25,5 @@ None! Please let me know if you encounter any!
 ### Acknowledgements
 Kasuromi for [SniperMeleeFix](https://thunderstore.io/c/gtfo/p/Kasuromi/SniperMeleeFix/), which much
 of this fix is based on. randomuserhi for suggesting the use of no-ops and for implementing the fix
-for shotguns! Dinorush for initial discussion and for implementing the fix for shotgun spread!
+for shotguns! Dinorush for initial discussion and for implementing the fix for
+shotgun spread and new unity update!

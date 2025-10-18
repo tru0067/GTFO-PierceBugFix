@@ -1,6 +1,6 @@
 {
     "name": "PierceBugFix",
-    "version_number": "1.2.1",
+    "version_number": "1.2.2",
     "website_url": "https://github.com/tru0067/GTFO-PierceBugFix",
     "description": "Fixes piercing so that piercing shots hit the advertised number of enemies.",
     "dependencies": [

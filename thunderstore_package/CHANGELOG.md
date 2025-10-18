@@ -13,3 +13,7 @@ Extended fix to shotgun spread, credit to Dinorush!
 ## v1.2.1
 
 Added a fix for possible infinite loop, credit to Dinorush!
+
+## v1.2.2
+
+Added a fix for new update, credit to Dinorush!
